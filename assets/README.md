@@ -11,7 +11,7 @@ I want to generate a webpage that displays my team's basic info
 so that I have quick access to emails and GitHub profiles
 
 ## Snapshots
-![Image description](./assets/eng-intern.PNG)
+![Image description](eng-intern.PNG)
 ![Image description](./assets/manager-htmlGen.PNG)
 ![Image description](./assets/tests.PNG)
 ![Image description](./assets/my-team.PNG)
