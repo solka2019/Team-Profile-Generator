@@ -12,9 +12,9 @@ so that I have quick access to emails and GitHub profiles
 
 ## Snapshots
 ![Image description](eng-intern.PNG)
-![Image description](./assets/manager-htmlGen.PNG)
-![Image description](./assets/tests.PNG)
-![Image description](./assets/my-team.PNG)
+![Image description](manager-htmlGen.PNG)
+![Image description](tests.PNG)
+![Image description](my-team.PNG)
 
 ## GitHub Page
 https://solka2019.github.io/Team-Profile-Generator/.
