@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sarkwon89/TPG.git"
+    "url": "git+https://github.com/solka2019/Team-Profile-Generator"
   },
-  "author": "",
+  "author": "Marissol Karczeski",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sarkwon89/TPG/issues"
+    "url": "https://github.com/solka2019/Team-Profile-Generator/issues"
   },
-  "homepage": "https://github.com/sarkwon89/TPG#readme",
+  "homepage": "https://github.com/solka2019/Team-Profile-Generator#readme",
   "dependencies": {
     "inquirer": "^7.0.6",
     "jest": "^24.9.0"
